@@ -3,10 +3,10 @@ using System.Globalization;
 using System.Net;
 using System.Net.Http;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using SeafClient.Requests.Libraries;
-using SeafClient.Types;
+using SeafileClient.Requests.Libraries;
+using SeafileClient.Types;
 
-namespace SeafClient.Tests
+namespace SeafileClient.Tests
 {
     [TestClass]
     public class LibraryTests : SeafTestClassBase

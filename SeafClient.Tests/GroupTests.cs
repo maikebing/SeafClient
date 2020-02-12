@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using SeafClient.Requests.Groups;
+using SeafileClient.Requests.Groups;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,7 +8,7 @@ using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SeafClient.Tests
+namespace SeafileClient.Tests
 {
     [TestClass]
     public class GroupTests : SeafTestClassBase

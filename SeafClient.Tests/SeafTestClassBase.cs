@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading.Tasks;
 
-namespace SeafClient.Tests
+namespace SeafileClient.Tests
 {
     /// <summary>
     ///     Base class for TestClasses which test the SeafClient library

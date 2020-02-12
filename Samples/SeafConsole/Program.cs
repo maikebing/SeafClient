@@ -4,14 +4,14 @@ using System.Linq;
 using System.Net;
 using System.Security;
 using System.Threading.Tasks;
-using SeafClient;
-using SeafClient.Exceptions;
-using SeafClient.Types;
-using SeafClient.Requests.Directories;
+using SeafileClient;
+using SeafileClient.Exceptions;
+using SeafileClient.Types;
+using SeafileClient.Requests.Directories;
 using System.IO;
 using System.Net.Http;
 using System.Reflection;
-using SeafClient.Requests.Groups;
+using SeafileClient.Requests.Groups;
 
 namespace SeafConsole
 {

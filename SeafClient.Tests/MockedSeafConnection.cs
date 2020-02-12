@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Net.Http;
 using System.Threading.Tasks;
-using SeafClient.Exceptions;
+using SeafileClient.Exceptions;
 
-namespace SeafClient.Tests
+namespace SeafileClient.Tests
 {
     internal class MockedSeafConnection : ISeafWebConnection
     {

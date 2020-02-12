@@ -4,11 +4,11 @@ using System.Linq;
 using System.Net;
 using System.Net.Http;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using SeafClient.Requests;
-using SeafClient.Requests.UserAccountInfo;
-using SeafClient.Types;
+using SeafileClient.Requests;
+using SeafileClient.Requests.UserAccountInfo;
+using SeafileClient.Types;
 
-namespace SeafClient.Tests
+namespace SeafileClient.Tests
 {
     // Tests have been created based on the Seafile web api documentation
     // see http://manual.seafile.com/develop/web_api.html

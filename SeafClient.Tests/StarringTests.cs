@@ -1,10 +1,10 @@
 ﻿using System.Net;
 using System.Net.Http;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using SeafClient.Requests.StarredFiles;
-using SeafClient.Types;
+using SeafileClient.Requests.StarredFiles;
+using SeafileClient.Types;
 
-namespace SeafClient.Tests
+namespace SeafileClient.Tests
 {
     /// <summary>
     ///     Contains methods which test the star / unstar file requests
